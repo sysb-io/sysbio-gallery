@@ -1,2 +1,14 @@
+stanley-gu/biomodels_db:curated/BIOMD0000000001.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000002.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000003.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000004.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000005.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000006.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000007.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000008.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000009.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000010.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000011.xml
 stanley-gu/biomodels_db:curated/BIOMD0000000012.xml
+stanley-gu/biomodels_db:curated/BIOMD0000000013.xml
 stanley-gu/simpleSbmlModel:model.sbml
